@@ -12,10 +12,17 @@
 }
 .header{
 	height:80px;
+	overflow:hidden;
 }
 
-.logo{
-	padding-top:22px;
+.logo img{
+	/* padding-top:22px; */
+	
+	margin-top:-15px;
+	height:120px;
+	width:200px;
+	overflow:hidden;
+	
 }
 
 
