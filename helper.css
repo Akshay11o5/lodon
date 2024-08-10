@@ -1,0 +1,80 @@
+
+div[class^="col-"]{
+	float:left;
+	padding:0;
+}
+.col-12{
+	width:calc((100%*12)/12); 
+   
+}
+
+
+.col-5{
+	width:calc((100%*5)/12); 
+	
+
+}
+
+.col-7{
+	width:calc((100%*7)/12); 
+	
+
+}
+
+.col-1{
+	width:calc((100%*1)/12); 
+   
+}
+
+.col-6{
+	width:calc((100%*6)/12); 
+
+
+}
+.col-10{
+	width:calc((100%*10)/12); 
+
+
+}
+
+.col-2{
+	width:calc((100%*2)/12); 
+
+}
+
+.col-3{
+	width:calc((100%*3)/12); 
+	float:left;
+
+}
+
+.offset-2{
+	margin-left:calc((100%*2)/12);
+	
+}
+
+.aligncenter{
+	text-align:center;
+}
+
+.offset-1{
+	margin-left:calc((100%*1)/12);
+}
+
+.col-8{
+	width:calc((100%*8)/12); 
+	
+
+}
+
+.offset-9{
+	margin-left:calc((100%*9)/12);
+	
+}
+
+.aligncenterone{
+	padding-left:15px;
+}
+
+
+
